@@ -7,7 +7,7 @@
 5. Always run prettier before pushing your code
 
 ```bash
-npx prettier --write .
+npm run format:fix
 ```
 
 ### Setting up your Local Codebase
