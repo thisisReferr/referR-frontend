@@ -37,3 +37,9 @@ npm run format:fix
 ```bash
 npm run format:check
 ```
+
+6. Check Linting
+
+```bash
+npm run lint
+```
